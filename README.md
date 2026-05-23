@@ -37,3 +37,21 @@ Microsistemul permite:
 ## Observații
 
 Proiect realizat în scop educațional.
+
+## Imagini Circuit
+
+# 8086
+
+![8086](Individual_Components/8086_Latches.png)
+
+# Decoders
+
+![Decoders](Individual_Components/DECODERS.png)
+
+# Keyboard
+
+![Keyboard](Individual_Components/12Key_Keyboard.png)
+
+# 7 Segment Display
+
+![7SEG Display](Individual_Components/7Segment_Display_LEDs.png)
